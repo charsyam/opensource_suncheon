@@ -1,3 +1,4 @@
+// 사칙연산을 위한 계산기 프로그램으로 추정됩니다.
 from __future__ import annotations
 
 from typing import Dict, Tuple
