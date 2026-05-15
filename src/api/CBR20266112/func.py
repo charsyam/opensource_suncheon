@@ -55,7 +55,7 @@ def _read_operands(req: Request) -> Tuple[int, int] | Response:
 
 def _result(operation: str, a: int, b: int, result: int | float) -> Dict[str, int | float | str]:
     return {
-        "user_id": "charsyam",
+        "user_id": "CBR20266112",
         "operation": operation,
         "a": a,
         "b": b,
